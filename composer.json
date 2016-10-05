@@ -1,5 +1,5 @@
 {
-    "name": "tillkruss/redis-cache",
+    "name": "rkaiser0324/redis-cache",
     "description": "A persistent object cache backend for WordPress powered by Redis. Supports Predis, PhpRedis, HHVM, replication and clustering.",
     "homepage": "https://github.com/tillkruss/redis-cache",
     "type": "wordpress-plugin",
