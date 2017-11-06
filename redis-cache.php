@@ -1,13 +1,13 @@
 <?php
 /*
 Plugin Name: Redis Object Cache
-Plugin URI: https://wordpress.org/plugins/redis-cache/
-Description: A persistent object cache backend powered by Redis. Supports Predis, PhpRedis, HHVM, replication, clustering and WP-CLI.
-Version: 1.3.4
+Plugin URI: https://github.com/rkaiser0324/redis-cache
+Description: A persistent object cache backend powered by Redis. Supports Predis, PhpRedis, HHVM, replication, clustering and WP-CLI.  Forked from  Till Krüss's Redis Object Cache.
+Version: 2.0.0
 Text Domain: redis-cache
 Domain Path: /languages
-Author: Till Krüss
-Author URI: https://till.im/
+Author: DigiPowers, Inc.
+Author URI: https://www.digipowers.com
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 */
